@@ -1,3 +1,3 @@
 # quran-garden
 Notes:
-  [SurahNotes/SurahYusuf.md]
+  [Surah Yusuf Notes](SurahNotes/SurahYusuf.md)
