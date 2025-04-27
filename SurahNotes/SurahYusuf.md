@@ -9,8 +9,10 @@
 
 - Hadith on Dream Interpretation ("Bird flying" analogy):
   - Prophet Muhammad ﷺ said:
-    - "A dream is like a bird tied to the leg of a man as long as it is not interpreted, but when it is interpreted, it happens."
-(Reference: Hadith Collection)
+    - Hadith No: 3914
+    - Narrated/Authority of Abu Razin
+      - That he heard the Prophet (saw) say: "Dreams are attached to the foot of a bird* until they are interpreted, then when they are interpreted they come to pass." He said: "And
+     dreams are one of the forty-six parts of prophecy." He (the narrator) said: "And I think he said: '(A person) should not tell them except to one whom he loves or one who is   wise.'" *It is said that this is a parable, and its meaning is that they are not settled.
 
 - Caution in Sharing Dreams:
   - It is important to be careful about whom we share our dreams with.
