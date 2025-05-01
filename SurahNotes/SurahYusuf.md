@@ -6,6 +6,7 @@
   - Dreams can be true signs from Allah (Ru'ya Saadiqa).
   - Seeking interpretation from a rightly guided person can help in understanding guidance related to one’s present and future decisions.
   - In contrast, consulting soothsayers (kahin) or fortune tellers is forbidden, as it involves reliance on false and misleading sources.
+  - [Was the adhan revealed by wahy or was it suggested by a sahaabi?](https://m.islamqa.info/en/answers/7945/was-the-adhan-revealed-by-wahy-or-was-it-suggested-by-a-sahaabi?traffic_source=main_islamqa)
 
 - Hadith on Dream Interpretation ("Bird flying" analogy):
   - Prophet Muhammad ﷺ said:
@@ -16,11 +17,13 @@
 
 - Caution in Sharing Dreams:
   - It is important to be careful about whom we share our dreams with.
-  - Sharing a meaningful or symbolic dream with someone who is jealous, ignorant, or insincere could lead to misinterpretation, harm, or unnecessary worry.
+  - Sharing a meaningful or symbolic dream with someone who is jealous, ignorant, or insincere could lead to misinterpretation, harm, or unnecessary worry. [ibnmajah-35-22](https://sunnah.com/ibnmajah/35/22)
 
 - ## Ayah 42
 - The word **ظَنَّ**:
-  - In the previous Ayah, the wording gives the impression that the event was certain to happen. 
+  - In the previous Ayah, the wording gives the impression that the event was certain to happen.
+  - Example: [ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ رَبِّهِمْ (Surah Al-Baqarah, 2:46)](https://quran.com/2/46) 
+  - Example: [إِنِّى ظَنَنتُ أَنِّى مُلَـٰقٍ حِسَابِيَهْ (Surah Al-Haaqqah, 69:20)](https://quran.com/69/20) 
   - **ظَنَّ** in Arabic can also be used to express certainty, not just doubt.
 
 - Yusuf (AS) and Imprisonment:
